@@ -1,6 +1,8 @@
 ## Projects
 
 ### Niantic, Inc
+![Static Badge](https://img.shields.io/badge/8thWall-Native%20App%20Export-%237611B6?link=https%3A%2F%2Fweb.archive.org%2Fweb%2F20251112194829%2Fhttps%3A%2F%2Fwww.8thwall.com%2Fdocs%2Fstudio%2Fnative-app-export%2F)
+
 [![Into the Scaniverse on Meta Quest](https://img.shields.io/badge/Meta_Quest-Into_the_Scaniverse-blue?logo=oculus)](https://www.meta.com/experiences/into-the-scaniverse/8575253579256191/)
 
 [![MagicLeap 2 Integration](https://img.shields.io/badge/Lightship-MagicLeap2_Integration-orange)](https://lightship.dev/docs/ardk/how-to/unity/ml2_development/)
