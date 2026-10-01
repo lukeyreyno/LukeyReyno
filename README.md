@@ -1,7 +1,7 @@
 ## Projects
 
 ### Niantic, Inc
-![Static Badge](https://img.shields.io/badge/spz-GaussianSplat?label=Gaussian%20Splat&link=https%3A%2F%2Fgithub.com%2Fnianticlabs%2Fspz)
+[![Gaussian Splat - spz](https://img.shields.io/badge/Gaussian%20Splat-spz-blue)](https://github.com/nianticlabs/spz)
 
 ![Static Badge](https://img.shields.io/badge/Scaniverse-iOS?logo=https%3A%2F%2Fplay-lh.googleusercontent.com%2FBRRZhSPILkzJtCRFi3o0GWzyZQ4MfIqSYYGsnILvW_E1vkcs8LAXYKQYFSNJ2K1Ktg&label=iOS&color=fc3d03&link=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fscaniverse-3d-scanner%2Fid1541433223)
 
@@ -9,9 +9,9 @@
 
 [![Into the Scaniverse on Meta Quest](https://img.shields.io/badge/Meta_Quest-Into_the_Scaniverse-blue?logo=oculus)](https://www.meta.com/experiences/into-the-scaniverse/8575253579256191/)
 
-[![MagicLeap 2 Integration](https://img.shields.io/badge/Lightship-MagicLeap2_Integration-orange)](https://lightship.dev/docs/ardk/how-to/unity/ml2_development/)
+[![MagicLeap 2 Integration](https://img.shields.io/badge/Lightship-MagicLeap2_Integration-orange)](https://web.archive.org/web/20250518124915/https://lightship.dev/docs/ardk/how-to/unity/ml2_development/)
 
-[![Object Detection](https://img.shields.io/badge/Lightship-Object_Detection-orange)](https://lightship.dev/docs/ardk/features/object_detection/)
+[![Object Detection](https://img.shields.io/badge/Lightship-Object_Detection-orange)](https://web.archive.org/web/20251018202641/https://lightship.dev/docs/ardk/features/object_detection/)
 
 ### Cal Poly - San Luis Obispo
 [![Ocean Sight One](https://img.shields.io/badge/XR_App-Ocean_Sight_One-257734)](https://digitalcommons.calpoly.edu/cpesp/347)
